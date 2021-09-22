@@ -5,7 +5,7 @@
 
 ## Oi! Eu sou o Stanley Rodrigues
 
-- 🤔 &nbsp; Apaixonado por tecnologia e criações deposito aqui tudo que criei e irei criar.
+- 🤔 &nbsp; Apaixonado por tecnologia e criações deposito aqui tudo que já fiz e irei fazer.
 - 🎓 &nbsp; Estudando Sistemas de Informação na <a href="https://universo.edu.br/">Universidade Salgado de Oliveira</a>.
 - 💼 &nbsp; Buscando a primeira oportunidade de ingressar no mercado.
 - 🌱 &nbsp; Aprendendo cada vez mais sobre as tecnologias.
