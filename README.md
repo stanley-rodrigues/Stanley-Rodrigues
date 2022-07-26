@@ -7,7 +7,7 @@
 
 - 🤔 &nbsp; Apaixonado por tecnologia e criações deposito aqui tudo que já fiz e irei fazer.
 - 🎓 &nbsp; Estudando Sistemas de Informação na <a href="https://universo.edu.br/">Universidade Salgado de Oliveira</a>.
-- 💼 &nbsp; Buscando a primeira oportunidade de ingressar no mercado.
+- 💼 &nbsp; Buscando a cada dia ser um profissional melhor.
 - 🌱 &nbsp; Aprendendo cada vez mais sobre as tecnologias.
  <div>
   <a href="https://github.com/stanley-rodrigues">
