@@ -9,25 +9,33 @@
 - 🎓 &nbsp; Estudando Sistemas de Informação na <a href="https://universo.edu.br/">Universidade Salgado de Oliveira</a>.
 - 💼 &nbsp; Buscando a cada dia ser um profissional melhor.
 - 🌱 &nbsp; Aprendendo cada vez mais sobre as tecnologias.
- <div>
-  <a href="https://github.com/stanley-rodrigues">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stanley-rodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stanley-rodrigues&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+ 
  
  ## skills
  
 <div style="display: inline_block"><br>
   <img align="center" alt="stanley-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  
   <img align="center" alt="stanley-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  
   <img align="center" alt="stanley-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
   <img align="center" alt="stanley-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  
   <img align="center" alt="stanley-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
- 
- 
+  
+  <img align="center" alt="stanley-mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  
+   <img align="center" alt="stanley-postgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
+  
+<img align="center" alt="stanley-mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
+<img align="center" alt="stanley-github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 
 <img align="center" alt="stanley-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
  <img align="center" alt="stanley-github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+ 
+
  
 
 
