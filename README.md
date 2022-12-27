@@ -1,15 +1,27 @@
 
+
+
+![MasterHead](https://github.com/stanley-rodrigues/Stanley-Rodrigues/blob/master/download%20(1).gif?raw=true)
+
 ![](https://komarev.com/ghpvc/?username=stanley-rodrigues&color=red)
 
 <h3> &nbsp;Sobre mim </h3>
 
 ## Oi! Eu sou o Stanley Rodrigues
 
-- 🤔 &nbsp; Apaixonado por tecnologia e criações deposito aqui tudo que já fiz e irei fazer.
+<img align="right" alt="Coding" width="400" src="https://github.com/stanley-rodrigues/Stanley-Rodrigues/blob/master/zepeto_video_1672154609575.gif?raw=true">
+
+- 🤔 &nbsp; Apaixonado por tecnologia e criações, deposito aqui tudo que já fiz e irei fazer.
 - 🎓 &nbsp; Estudando Sistemas de Informação na <a href="https://universo.edu.br/">Universidade Salgado de Oliveira</a>.
 - 💼 &nbsp; Buscando a cada dia ser um profissional melhor.
 - 🌱 &nbsp; Aprendendo cada vez mais sobre as tecnologias.
  
+
+</div>
+  
+  ##
+ 
+<div>
  
  ## skills
  
@@ -35,9 +47,19 @@
 
  <img align="center" alt="stanley-github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
  
-
+</div>
+  
+  ##
  
+<div>
+ 
+[![Stanley's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Stanley-Rodrigues&&theme=xcode)](https://github.com/Stanley-Rodrigues)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Stanley-Rodrigues&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Stanley-Rodrigues" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Stanley-Rodrigues&show_icons=true&locale=en&theme=tokyonight" alt="Stanley-Rodrigues" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Stanley-Rodrigues&&theme=tokyonight" alt="Stanley-Rodrigues" /></p>
 
 
 </div>
