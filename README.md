@@ -55,7 +55,8 @@
  
 [![Stanley's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Stanley-Rodrigues&&theme=xcode)](https://github.com/Stanley-Rodrigues)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Stanley-Rodrigues&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Stanley-Rodrigues" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Stanley-Rodrigues&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Stanley-Rodrigues" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Stanley-Rodrigues&show_icons=true&locale=en&theme=tokyonight" alt="Stanley-Rodrigues" /></p>
 
