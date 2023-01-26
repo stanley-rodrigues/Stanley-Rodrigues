@@ -12,7 +12,7 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/stanley-rodrigues/Stanley-Rodrigues/blob/master/zepeto_video_1672154609575.gif?raw=true">
 
 - 🤔 &nbsp; Aqui verá projetos desenvolvidos ou que estão em desenvolvimento.
-- 🎓 &nbsp; Bacharel em Sistemas de Informação na <a href="https://universo.edu.br/">Universidade Salgado de Oliveira</a>.
+- 🎓 &nbsp; Estudando Bacharel em Sistemas de Informação na <a href="https://universo.edu.br/">Universidade Salgado de Oliveira</a>.
 - 💼 &nbsp; Escalando a cada dia em minha carreira.
 - 🌱 &nbsp; Sempre buscando o conhecimento.
  
