@@ -9,7 +9,7 @@
 
 ## Oi! Eu sou o Stanley Rodrigues
 
-<img align="right" alt="Coding" width="400" src="https://github.com/stanley-rodrigues/Stanley-Rodrigues/blob/master/zepeto_video_1672154609575.gif?raw=true">
+
 
 - 🤔 &nbsp; Aqui verá projetos desenvolvidos ou que estão em desenvolvimento.
 - 🎓 &nbsp; Estudando Bacharel em Sistemas de Informação na <a href="https://universo.edu.br/">Universidade Salgado de Oliveira</a>.
@@ -73,6 +73,6 @@
   <a href = "mailto:stanleyrodriguessilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/stanley-rodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/stanley-rodrigues/stanley-rodrigues/blob/output/github-contribution-grid-snake.svg)
+  
  
 </div>
