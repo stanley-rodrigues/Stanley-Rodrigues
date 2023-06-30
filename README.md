@@ -1,7 +1,7 @@
 
 
 
-![MasterHead](https://github.com/stanley-rodrigues/Stanley-Rodrigues/blob/master/download%20(1).gif?raw=true)
+
 
 ![](https://komarev.com/ghpvc/?username=stanley-rodrigues&color=red)
 
