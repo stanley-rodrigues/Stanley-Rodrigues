@@ -12,10 +12,8 @@
 
 
 - 🤔 &nbsp; Aqui verá projetos desenvolvidos ou que estão em desenvolvimento.
-- 🎓 &nbsp; Estudando Bacharel em Sistemas de Informação na <a href="https://universo.edu.br/">Universidade Salgado de Oliveira</a>.
-- 💼 &nbsp; Escalando a cada dia em minha carreira.
-- 🌱 &nbsp; Sempre buscando o conhecimento.
- 
+- 🎓 &nbsp; Bacharel em Sistemas de Informação na <a href="https://universo.edu.br/">Universidade Salgado de Oliveira</a>.
+- 💼 &nbsp; Construindo a cada dia minha carreira.
 
 </div>
   
